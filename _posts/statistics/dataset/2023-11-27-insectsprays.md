@@ -1,8 +1,7 @@
 ---
 title: InsectSprays
 layout: page
-permalink: /dataset/:slug/
-redirect_from: /dataset/insectsprays.html
+permalink: /dataset/:slug.html
 ---
 <div id="dataset-info">
 <h2>Effectiveness of Insect Sprays</h2>

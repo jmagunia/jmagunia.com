@@ -3,7 +3,6 @@ title: Addition Tables
 author: jmagunia
 layout: page
 permalink: /math/arithmetic/:slug.html
-redirect_from: /arithmetic-tables.html
 ---
 
 <p>The idea of numerals is illustrated below. The numbers from zero to nine are depicted as dominoes shaded in blue. Though the numbers are depicted below, numbers are imaginary (they don't exist in real life). I've never seen the number five walking in my neighborhood or any other number for that fact. In this respect math is different from other sciences than say, chemistry, where atoms can be reached out and touched or geology where the Earth can be walked upon. After the "imaginary" numerals depicted below some addition and multiplication terminology is defined in the context of real analysis.</p>

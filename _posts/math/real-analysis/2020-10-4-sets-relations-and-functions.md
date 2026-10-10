@@ -3,7 +3,6 @@ title: Sets, Relations and Funcs
 author: jmagunia
 layout: page
 permalink: /math/real-analysis/:slug.html
-redirect_from: /sets-relations-and-functions.html
 ---
 
 <p>This page discusses Sets,Relations and Function. The ideas presented here only skim the surface. Definitions and discussion follow.</p>

@@ -3,7 +3,6 @@ title: Installing Jekyll, OpenJDK 8 and S3 Website on a Mac
 author: jmagunia
 layout: page
 permalink: /technology/:slug.html
-redirect_from: /install-openjdk-jekyll-s3-website.html
 ---
 Update: This page is no longer updated. Some of the instructions may be incorrect. Proceed with caution.
 

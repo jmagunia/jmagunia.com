@@ -1,8 +1,7 @@
 ---
 title: discoveries
 layout: page
-permalink: /dataset/:slug/
-redirect_from: /dataset/discoveries.html
+permalink: /dataset/:slug.html
 ---
 <div id="dataset-info">
 <h2>Yearly Numbers of Important Discoveries</h2>

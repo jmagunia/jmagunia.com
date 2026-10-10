@@ -3,7 +3,6 @@ title: Illinois Beginnings
 author: jmagunia
 layout: page
 permalink: /technology/:slug.html
-redirect_from: /2019/07/06/beginnings.html
 ---
 <h6>UPDATE - January 3, 2020</h6>
 <p>Just got back my grade for the first semester and I completed the Cloud Networking course successfully with full credit (4 hours). My GPA is a 3.67. Looking forward to next semester's Cloud Computing Applications course. The semester starts January 21, 2020. There will be a final <em>and</em> mid-term. Good luck Jay!</p>

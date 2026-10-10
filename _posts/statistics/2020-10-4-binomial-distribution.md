@@ -3,7 +3,6 @@ title: Binomial Distribution
 author: jmagunia
 layout: page
 permalink: /statistics/:slug.html
-redirect_from: /binomial-distribution.html
 ---
 
 <p>In the last section, we took a first look at the some of the conditions necessary for a <a href="/node/2017">binomial experiment</a>. Let's examine the binomial distribution more closely by examining the method to calculate the probability of getting a particular outcome for a series of <b>bernoulli trials</b>.</p>

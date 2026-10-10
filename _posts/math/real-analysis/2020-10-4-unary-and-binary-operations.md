@@ -3,7 +3,6 @@ title: Unary and Binary Ops
 author: jmagunia
 layout: page
 permalink: /math/real-analysis/:slug.html
-redirect_from: /unary-and-binary-operations.html
 ---
 
 <p>This page discusses unary and binary operations found in many Sets, Relations and Functions classes and also advanced Real Analysis.</p>

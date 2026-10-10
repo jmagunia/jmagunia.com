@@ -3,7 +3,6 @@ title: Binary Numeral System
 author: jmagunia
 layout: page
 permalink: /math/arithmetic/:slug.html
-redirect_from: /binary-numeral-system.html
 ---
 
 <p>A numeral system is a way of representing numbers, not to be confused with number systems which classify numbers based on properties.</p>

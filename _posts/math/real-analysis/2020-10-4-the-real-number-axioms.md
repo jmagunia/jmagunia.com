@@ -3,7 +3,6 @@ title: The Real Number Axioms
 author: jmagunia
 layout: page
 permalink: /math/real-analysis/:slug.html
-redirect_from: /the-real-number-axioms.html
 ---
 
 <p>The set of real numbers, $\mathbb{R}$, satisfies the following three sets of axioms.</p>

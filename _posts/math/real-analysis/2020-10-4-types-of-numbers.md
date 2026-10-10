@@ -3,7 +3,6 @@ title: Types of Numbers
 author: jmagunia
 layout: page
 permalink: /math/real-analysis/:slug.html
-redirect_from: /types-of-numbers.html
 ---
 
 <p>Common types of numbers found in Arithmetic.</p>

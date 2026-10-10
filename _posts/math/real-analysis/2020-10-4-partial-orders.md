@@ -3,7 +3,6 @@ title: Partial Orders
 author: jmagunia
 layout: page
 permalink: /math/real-analysis/:slug.html
-redirect_from: /partial-orders.html
 ---
 
 <p>A <strong>partial order</strong> is a relation that satisfies three requirments:</p>

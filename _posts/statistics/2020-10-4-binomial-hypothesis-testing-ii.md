@@ -3,7 +3,6 @@ title: Binomial Testing
 author: jmagunia
 layout: page
 permalink: /statistics/:slug.html
-redirect_from: /binomial-hypothesis-testing-ii.html
 ---
 
 <p>In the last experiment, we assumed we had a fair coin. Suppose we wanted to conduct an experiment to see whether it was indeed a 

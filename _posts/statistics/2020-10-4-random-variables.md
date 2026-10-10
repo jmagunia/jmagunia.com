@@ -3,7 +3,6 @@ title: Random Variables
 author: jmagunia
 layout: page
 permalink: /statistics/:slug.html
-redirect_from: /random-variables.html
 ---
 
 <p>A <strong>random variable</strong>, $ X $, is a function that assigns to each element in the sample space a unique value. The <strong>sample space</strong> is the domain of $X$. The value assigned to each element in the sample space is the <em>probability</em> for that particular element in the sample space occurring. The sum of the probabilities over the sample space must equal 1, and the probability that the random variable takes on a value $ x $ must be between 0 and 1, inclusive.</p>

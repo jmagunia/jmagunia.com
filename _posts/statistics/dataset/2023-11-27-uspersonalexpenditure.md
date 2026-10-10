@@ -1,8 +1,7 @@
 ---
 title: USPersonalExpenditure
 layout: page
-permalink: /dataset/:slug/
-redirect_from: /dataset/uspersonalexpenditure.html
+permalink: /dataset/:slug.html
 ---
 <div id="dataset-info">
 <h2>Personal Expenditure Data</h2>

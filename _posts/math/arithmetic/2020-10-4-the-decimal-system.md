@@ -3,7 +3,6 @@ title: The Decimal System
 author: jmagunia
 layout: page
 permalink: /math/arithmetic/:slug.html
-redirect_from: /the-decimal-system.html
 ---
 
 <p>The decimal system is a way of representing a number using powers of ten. The first digit before the decimal is the <em>ones</em> place. Suppose we have a digit, $ d $, that is in the ones place. Since $ d $ is in the ones place the value of $ d = d \times 10^0. $ We use 10 since we are in the decimal system (base 10). We use 0 for the exponent because we are 1 digit to the left of the decimal. Why 0? In Computer Science and Mathematics, counting is often started at 0. Also $ 10^0 = 1$ which is the value that the digit in the ones place is multiplied by.</p>

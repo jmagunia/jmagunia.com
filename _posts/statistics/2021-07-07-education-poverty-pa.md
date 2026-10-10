@@ -3,7 +3,6 @@ title: Poverty and Education in Pennsylvania
 author: jmagunia
 layout: page
 permalink: /statistics/:slug.html
-redirect_from: /education-poverty-pa.html
 ---
 <p>It would seem that poverty and education are connected, but what does the data say? To understand this relationship, I took <a target="_blank" href="/vis/pa.csv">my survey data</a> from <a target="_blank" href="https://www.openintro.org/data/index.php?data=county_complete">Open Intro</a> and focused on the following three variables for counties in Pennsylvania using only the <a  target="_blank" href="https://d3js.org">D3 JavaScript library</a> for data visualization. Please note that data for some counties were missing for 2019.</p>
 <ol><li>Percent of the county population in poverty - <code>poverty_2019</code></li><li>Percent of the county with a bachelors degree - <code>bachelors_2019</code></li><li>Population of the county - <code>pop_2019</code></li></ol>

@@ -3,7 +3,6 @@ title: Decimal to Binary
 author: jmagunia
 layout: page
 permalink: /math/arithmetic/:slug.html
-redirect_from: /decimal-to-binary.html
 ---
 
 <p>Suppose we wanted to convert the decimal number 27 to binary. To get started we have to find out what place the first digit is going to be in. 27 is between $ 2^4=16 $ and $ 2^5=32 $. Our number is less than 32 so we can put a 0 in the "thirty-twos" place. We put a 0 in the thirty-twos place because if we put a 1 that would immediately turn the value of our binary number to at least 32. However, sixteen will fit inside 27 so we can put a 1 in the "sixteens" place.</p>

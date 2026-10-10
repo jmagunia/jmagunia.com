@@ -3,7 +3,6 @@ title: Subtraction and Division
 author: jmagunia
 layout: page
 permalink: /math/arithmetic/:slug.html
-redirect_from: /subtraction-and-division-operations.html
 ---
 
 <p>The most common terms found in subtraction and division arithmetic are listed below. If you find any math errors, you may reach out to North Penn Networks using the contact form.</p>

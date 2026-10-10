@@ -3,7 +3,6 @@ title: Exploring Education and Poverty in Tableau
 author: jmagunia
 layout: page
 permalink: /statistics/:slug.html
-redirect_from: /education-poverty-pa.html
 ---
 Below is a screenshot of Tableau dashboard I created while taking CS 416 at the University of Illinois at Urbana-Champaign. It shows the relationship between poverty and education in the counties of Pennsylvania. You can see the general trend is negative. In other words, as more and more people become educated, the respective poverty level of their counties decreases. You can visit and interact with the dashboard on the <a href="/tableau.html">Tableau page</a> on my website. The following is some question and answer about my Tableau app.
 

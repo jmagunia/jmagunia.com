@@ -3,7 +3,6 @@ title: What is a fraction?
 author: jmagunia
 layout: page
 permalink: /math/arithmetic/:slug.html
-redirect_from: /what-is-a-fraction.html
 ---
 
 <p>The word 'fraction' comes from the Latin 'fractus' which means 'broken.' A fraction is written as one number above another number with a line called the <strong>vinculum</strong> separating the two. The number on top is called the <strong>numerator</strong> which tells us the size of the quantity that is is going to be broken up. The <strong>denominator</strong> which is the number on the bottom tells us into how many pieces we are going to break up the numerator. All the divided pieces will be of the same size, and the size of the remaining pieces is what the fraction is equal to.</p>

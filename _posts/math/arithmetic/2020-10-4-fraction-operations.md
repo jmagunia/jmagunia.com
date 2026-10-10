@@ -3,7 +3,6 @@ title: Fraction Operations I
 author: jmagunia
 layout: page
 permalink: /math/arithmetic/:slug.html
-redirect_from: /fraction-operations-addition-and-subtraction.html
 ---
 
 <p>The most basic fraction operations are addition and multiplication. So let's start there. There are two simple rules to follow when we add or multiply fractions. </p>

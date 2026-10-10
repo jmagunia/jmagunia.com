@@ -3,7 +3,6 @@ title: Logic and Quantifiers
 author: jmagunia
 layout: page
 permalink: /math/real-analysis/:slug.html
-redirect_from: /logic-and-quantifiers.html
 ---
 
 <p>This page discusses Logic and Quantifiers found in many Real Analysis and logic classes. Definitions with discussion follow.</p>

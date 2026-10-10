@@ -3,7 +3,6 @@ title: Fraction Terminology
 author: jmagunia
 layout: page
 permalink: /math/arithmetic/:slug.html
-redirect_from: /fraction-terminology.html
 ---
 
 <dl><dt><strong>factor</strong></dt>

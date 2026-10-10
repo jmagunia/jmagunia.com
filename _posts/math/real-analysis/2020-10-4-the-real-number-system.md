@@ -3,7 +3,6 @@ title: The Real Number System
 author: jmagunia
 layout: page
 permalink: /math/real-analysis/:slug.html
-redirect_from: /the-real-number-system.html
 ---
 
 <p>The real number system, $\mathbb{R}$, is a ring, $R,$ definined on the <strong>quotient set</strong> of all rational Cauchy sequences such that the operations of addition and multiplication are defined as follows:</p>

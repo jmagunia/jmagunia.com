@@ -1,8 +1,7 @@
 ---
 title: Heights and GPA
 layout: page
-permalink: /dataset/:slug/
-redirect_from: /dataset/heights-and-gpa.html
+permalink: /dataset/:slug.html
 ---
 <div id="dataset-info">
 <p>Heights and GPA of students.</p>

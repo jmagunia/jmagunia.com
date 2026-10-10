@@ -1,8 +1,7 @@
 ---
 title: LifeCycleSavings
 layout: page
-permalink: /dataset/:slug/
-redirect_from: /dataset/lifecyclesavings.html
+permalink: /dataset/:slug.html
 ---
 <div id="dataset-info">
 <h2>Intercountry Life-Cycle Savings Data</h2>

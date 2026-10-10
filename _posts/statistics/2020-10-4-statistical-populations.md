@@ -3,7 +3,6 @@ title: Statistical Populations
 author: jmagunia
 layout: page
 permalink: /statistics/:slug.html
-redirect_from: /statistical-populations.html
 ---
 
 <p>In statistics, we are often interested in the <strong>population</strong> which is some entire set of entities that share a common trait. We often draw a <strong>sample</strong> which is a subset of the population to draw inferences about the population. The set of measurements taken from the sample form the <strong>sample data</strong>.</p>

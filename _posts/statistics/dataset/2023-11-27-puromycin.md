@@ -1,8 +1,7 @@
 ---
 title: Puromycin
 layout: page
-permalink: /dataset/:slug/
-redirect_from: /dataset/puromycin.html
+permalink: /dataset/:slug.html
 ---
 <div id="dataset-info">
 <h2>Reaction Velocity of an Enzymatic Reaction</h2>

@@ -3,7 +3,6 @@ title: Cardinality
 author: jmagunia
 layout: page
 permalink: /math/real-analysis/:slug.html
-redirect_from: /cardinality.html
 ---
 
 <p>This page discusses cardinality, a basic topic found in classes like Sets, Relations and Functions and also Real Analysis. Definitions with discussion follow.</p>

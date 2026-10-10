@@ -3,7 +3,6 @@ title: Converting Fractions
 author: jmagunia
 layout: page
 permalink: /math/arithmetic/:slug.html
-redirect_from: /converting-fractions-to-decimals.html
 ---
 
 <p>Suppose we had a fraction like $\frac12,$ and we wanted to convert it to decimaldecimal notation. All we have to do is divide 2 into 1 like this:</p>

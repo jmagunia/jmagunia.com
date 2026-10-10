@@ -3,7 +3,6 @@ title: Cauchy Sequences
 author: jmagunia
 layout: page
 permalink: /math/real-analysis/:slug.html
-redirect_from: /cauchy-sequences.html
 ---
 
 <p>A sequence  $a_n$ <strong>converges</strong> to  $a$ if for every  $\epsilon > 0$,  $\exists$ an  $N$ such that if  $n > N$ then  $\left| a_n - a \right| < \epsilon.$</p>

@@ -3,7 +3,6 @@ title: Binomial Testing II
 author: jmagunia
 layout: page
 permalink: /statistics/:slug.html
-redirect_from: /binomial-hypothesis-testing-i.html
 ---
 
 <p>Suppose we conducted our experiment from the last section, and we got three heads. That is getting 2 fewer heads than would be 

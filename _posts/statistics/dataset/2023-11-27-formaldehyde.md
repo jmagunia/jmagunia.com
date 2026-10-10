@@ -1,8 +1,7 @@
 ---
 title: Formaldehyde
 layout: page
-permalink: /dataset/:slug/
-redirect_from: /dataset/formaldehyde.html
+permalink: /dataset/:slug.html
 ---
 <div id="dataset-info">
 <h2>Determination of Formaldehyde</h2>

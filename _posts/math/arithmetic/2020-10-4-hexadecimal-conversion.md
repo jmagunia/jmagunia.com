@@ -3,7 +3,6 @@ title: Hexadecimal Conversion
 author: jmagunia
 layout: page
 permalink: /math/arithmetic/:slug.html
-redirect_from: /hexadecimal-conversion.html
 ---
 
 <p>Hexadecimal is different from binary and decimal notation (base 10) in that there are sixteen unique digits whereas in decimal we have ten. Since we have sixteen digits we have to designate six new digits which are the letters A, B, C, D, E, and F. 'A' stands for 10, 'B' is 11, 'C' 12, 'D' 13, 'E' 14, and 'F' is 15.</p>

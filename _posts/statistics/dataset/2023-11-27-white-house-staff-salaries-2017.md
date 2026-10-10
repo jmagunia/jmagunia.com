@@ -1,8 +1,7 @@
 ---
 title: White House Staff Salaries 2017
 layout: page
-permalink: /dataset/:slug/
-redirect_from: /dataset/white-house-staff-salaries-2017.html
+permalink: /dataset/:slug.html
 ---
 <div id="dataset-info">
 <h2>White House Staff Salaries for 2017 Under the Trump Administration</h2>

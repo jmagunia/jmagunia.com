@@ -3,7 +3,6 @@ title: Number Systems
 author: jmagunia
 layout: page
 permalink: /math/real-analysis/:slug.html
-redirect_from: /number-systems.html
 ---
 
 <p>This page discusses the types of number systems found in real analysis and introduction to proving classes.</p>

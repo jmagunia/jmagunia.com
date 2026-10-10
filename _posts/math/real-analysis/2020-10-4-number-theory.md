@@ -3,7 +3,6 @@ title: Number Theory
 author: jmagunia
 layout: page
 permalink: /math/real-analysis/:slug.html
-redirect_from: /number-theory.html
 ---
 
 <dl>

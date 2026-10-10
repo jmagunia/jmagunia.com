@@ -1,8 +1,7 @@
 ---
 title: WorldPhones
 layout: page
-permalink: /dataset/:slug/
-redirect_from: /dataset/worldphones.html
+permalink: /dataset/:slug.html
 ---
 <div id="dataset-info">
 <h2>The World's Telephones</h2>

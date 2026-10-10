@@ -3,7 +3,6 @@ title: Greek Letters
 author: jmagunia
 layout: page
 permalink: /math/real-analysis/:slug.html
-redirect_from: /the-upper-and-lowercase-greek-letters.html
 ---
 
 <p>The upper and lowercase Greek letters used in Mathematics and Statistics.</p>

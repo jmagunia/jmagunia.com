@@ -3,7 +3,6 @@ title: Mathematics Symbols
 author: jmagunia
 layout: page
 permalink: /math/arithmetic/:slug.html
-redirect_from: /mathematics-symbols.html
 ---
 <p>The most common symbols found in mathematics are listed below. The table is not exhaustive but covers numerals, trigonometry and geometry. If you would like to see a mathematics symbol added you can contact North Penn Networks. Likewise if there are errors please also reach out. The math symbols below are rendered with MathJax.</p>
 <table summary="mathematical symbols">

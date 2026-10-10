@@ -3,7 +3,6 @@ title: Ordered Fields
 author: jmagunia
 layout: page
 permalink: /math/real-analysis/:slug.html
-redirect_from: /ordered-fields.html
 ---
 
 <p>A <strong>ring</strong> is a set $R$ with the usual operations of multiplication and addition from $R \times R \rightarrow R$ which satisfy the properties of:</p>

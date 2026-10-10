@@ -3,7 +3,6 @@ title: Binomial Experiment
 author: jmagunia
 layout: page
 permalink: /statistics/:slug.html
-redirect_from: /binomial-experiment.html
 ---
 
 <p>The binomial distribution is a discrete distribution which implies its sample space is finite. In other words, the values that a binomial random variable can take on is limited. The mean and variance is given by $ \mu = np $ and $ \sigma^2 = npq,$ respectively.</p>

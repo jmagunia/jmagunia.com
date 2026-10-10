@@ -1,8 +1,7 @@
 ---
 title: stackloss
 layout: page
-permalink: /dataset/:slug/
-redirect_from: /dataset/stackloss.html
+permalink: /dataset/:slug.html
 ---
 <div id="dataset-info">
 <h2>Brownlee's Stack Loss Plant Data</h2>

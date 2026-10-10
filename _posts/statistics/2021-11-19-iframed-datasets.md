@@ -3,7 +3,6 @@ title: Using iframes From This Site to Embed Datasets on Webpages
 author: jmagunia
 layout: page
 permalink: /statistics/:slug.html
-redirect_from: /iframed-datasets.html
 ---
 Picostat was a web application I created with Drupal 7/8/9. It had support for embedding datasets in webpages after they have been imported. I no longer maintain that project, but I transferred over the iframe functionality to `jmagunia.com`. You can see the code in a sample dataset page like the <a href="https://jmagunia.com/dataset/r-dataset-package-zelig-kmenta">kmenta</a> dataset. On that page you will find the iframe HTML code like this:
 

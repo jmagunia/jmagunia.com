@@ -3,7 +3,6 @@ title: Using AWS Rekognition To Turn Images and PDFs Into Human Readable Text
 author: jmagunia
 layout: page
 permalink: /technology/:slug.html
-redirect_from: /aws-rekognition-pdf-png-examples.html
 ---
 
 I wanted to turn a PDF into text I could copy and paste so I turned to AWS Rekognition. The console only accepted files that were 5 MB. Mine was 13 MB so I had to use the console with asynchronous methods.
