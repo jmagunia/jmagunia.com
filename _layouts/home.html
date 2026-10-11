@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{%- assign _posts = site.posts | sort: 'date' | reverse -%}
+{%- assign _post = site.posts | where_exp: "post", "post.path contains '2017-01-01-home.md'" | first -%}
 {%- include header.html -%}
 <!-- Main -->
 <div id="main">
@@ -9,51 +9,11 @@ layout: default
                 {%- include section.html title=page.title photo=page.cover-photo photo-alt=page.cover-photo-alt auto-header=page.auto-header content=page.content -%}
         {%- endif -%}
         <!-- Posts List -->
-        {%- for _post in _posts -%}
-                {%- if _post.url contains '/dataset/' -%}
-                        {% continue %}
-                {%- endif -%}
-                {%- if _post.url contains '/journal/' -%}
-                        {% continue %}
-                {%- endif -%}
-                {%- if _post.url contains '/spirituality/' -%}
-                        {% continue %}
-                {%- endif -%}
-                {%- if _post.url contains '/arithmetic/' -%}
-                        {% continue %}
-                {%- endif -%}
-		{%- if _post.url contains '/technology/' -%}
-                        {% continue %}
-                {%- endif -%}
-                {%- if _post.url contains '/statistics/' -%}
-                        {% continue %}
-                {%- endif -%}
-                {%- if _post.url contains '/math/' -%}
-                        {% continue %}
-                {%- endif -%}
-                {%- if _post.url contains '/2017/01/01/privacy.html' -%}
-                        {% continue %}
-                {%- endif -%}
-                {%- if _post.url contains '/2017/01/01/terms.html' -%}
-                        {% continue %}
-                {%- endif -%}
-                {%- if _post.url contains '/2025/01/18/privacy.html' -%}
-                        {% continue %}
-                {%- endif -%}
+        {%- if _post -%}
                 {%- capture _title -%}
-                        <a href="{{- _post.url | absolute_url -}}">{{- _post.title -}}</a>
+                        {{- _post.title -}}
                 {%- endcapture -%}
-                {%- capture _subtitle -%}
-                        {% if _post.author -%}{{- _post.author }} | {% endif %}
-                        {{- _post.date | date: '%B %-d, %Y' -}}
-                {%- endcapture -%}
-                {%- capture _excerpt -%}
-                        <p>{{- _post.excerpt | strip_html | truncatewords: 50 -}}</p>
-                {%- endcapture -%}
-                {%- capture _link -%}
-                        <a href="{{- _post.url | absolute_url -}}">read more</a>
-                {%- endcapture -%}
-                {%- assign _content = _excerpt | append: _link -%}
+                {%- assign _content = _post.content -%}
                 {%- include section.html title=_title subtitle=_subtitle content=_content -%}
-        {%- endfor -%}
+        {%- endif -%}
 </div>
